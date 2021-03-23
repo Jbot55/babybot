@@ -2,8 +2,8 @@ const iklan1 = (pushname, prefix, botName, ownerName) => {
 	return `🔰 -----[ *「 IKLAN ${botName} 」* ]----- 🔰
 ──────────────────────────────
 ◯ *DAFTAR SEWA & BUAT BOT :*
-◯ *SEWA : 25K/GRUP (BULAN)*
-◯ *BUAT : 100K (BISA JADI OWNER)*
+◯ *SEWA : 15K/GRUP (BULAN)*
+◯ *BUAT : 50K (BISA JADI OWNER)*
 ◯ *PEMBAYARAN BISA MELALUI :*
 ◯ *OVO, GOPAY, DANA, PULSA+10K*
 ──────────────────────────────
@@ -19,7 +19,7 @@ const iklan1 = (pushname, prefix, botName, ownerName) => {
 ──────────────────────────────
 ◯ *JIKA MINAT IKLAN DIATAS*
 ◯ *HARAP HUBUNGI NOMOR DIBAWAH :*
-◯ *wa.me/6285559240360*
+◯ *wa.me/62895605030379*
 ──────────────────────────────
 🔰 -----[ *「 POWERED BY ${ownerName} 」* ]----- 🔰
 `
